@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         Helper.makeButtonCircular(button: emailButton)
         Helper.makeButtonRounded(button: reviewButton, byRadius: 5)
         LoadTables.getBrandsList(fromFile: "brands.csv")
-
+//ланос
     }
     
     @IBOutlet weak var callButton: UIButton!
