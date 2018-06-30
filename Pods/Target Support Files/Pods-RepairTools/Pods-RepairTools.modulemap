@@ -1,0 +1,6 @@
+framework module Pods_RepairTools {
+  umbrella header "Pods-RepairTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
